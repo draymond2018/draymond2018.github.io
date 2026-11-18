@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basketball-star-superrgb.cozy-tapir-0561.chatgpt.site/sitemap.xml

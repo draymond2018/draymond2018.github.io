@@ -1,0 +1,172 @@
+[
+  {
+    "file": "favicon.png",
+    "width": 64,
+    "height": 64,
+    "format": "png",
+    "bytes": 11362,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/公司资料/物料/basketball/icon/basketball-star-icon-512.png",
+    "kind": "app icon"
+  },
+  {
+    "file": "game-1v1.webp",
+    "width": 1440,
+    "height": 720,
+    "format": "webp",
+    "bytes": 78430,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/marketing/store-screenshots/raw/01-action-shoot.png",
+    "kind": "actual gameplay screenshot"
+  },
+  {
+    "file": "game-2v2.webp",
+    "width": 1440,
+    "height": 720,
+    "format": "webp",
+    "bytes": 83000,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/marketing/store-screenshots/raw/04-action-jump.png",
+    "kind": "actual gameplay screenshot"
+  },
+  {
+    "file": "game-dunk.webp",
+    "width": 1440,
+    "height": 720,
+    "format": "webp",
+    "bytes": 77750,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/marketing/store-screenshots/raw/06-real-dunk-fine-0105.png",
+    "kind": "actual gameplay screenshot"
+  },
+  {
+    "file": "game-selection.webp",
+    "width": 1440,
+    "height": 720,
+    "format": "webp",
+    "bytes": 80918,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/marketing/store-screenshots/raw/02-select.png",
+    "kind": "actual gameplay screenshot"
+  },
+  {
+    "file": "game-shield.webp",
+    "width": 1440,
+    "height": 720,
+    "format": "webp",
+    "bytes": 80074,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/marketing/store-screenshots/raw/03-shield-1.png",
+    "kind": "actual gameplay screenshot"
+  },
+  {
+    "file": "game-tournament.webp",
+    "width": 1440,
+    "height": 720,
+    "format": "webp",
+    "bytes": 43110,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/marketing/store-screenshots/raw/05-tournament.png",
+    "kind": "actual gameplay screenshot"
+  },
+  {
+    "file": "hero-rivals-mobile.webp",
+    "width": 900,
+    "height": 506,
+    "format": "webp",
+    "bytes": 103846,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/marketing/illustrations/basketball-star-court-rivals-1920x1080.png",
+    "kind": "promotional illustration"
+  },
+  {
+    "file": "hero-rivals.webp",
+    "width": 1920,
+    "height": 1080,
+    "format": "webp",
+    "bytes": 271716,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/marketing/illustrations/basketball-star-court-rivals-1920x1080.png",
+    "kind": "promotional illustration"
+  },
+  {
+    "file": "icon.webp",
+    "width": 256,
+    "height": 256,
+    "format": "webp",
+    "bytes": 24898,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/公司资料/物料/basketball/icon/basketball-star-icon-512.png",
+    "kind": "app icon"
+  },
+  {
+    "file": "social-share.jpg",
+    "width": 1200,
+    "height": 630,
+    "format": "jpeg",
+    "bytes": 203639,
+    "alpha": false,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/marketing/illustrations/basketball-star-court-rivals-1920x1080.png",
+    "kind": "promotional illustration"
+  },
+  {
+    "file": "team-bos.webp",
+    "width": 160,
+    "height": 133,
+    "format": "webp",
+    "bytes": 12958,
+    "alpha": true,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/ui-preview/street-emblems/masters/team-logo-celtics.png",
+    "kind": "in-game city team emblem"
+  },
+  {
+    "file": "team-la.webp",
+    "width": 160,
+    "height": 160,
+    "format": "webp",
+    "bytes": 10340,
+    "alpha": true,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/ui-preview/street-emblems/masters/team-logo-lakers.png",
+    "kind": "in-game city team emblem"
+  },
+  {
+    "file": "team-mem.webp",
+    "width": 160,
+    "height": 120,
+    "format": "webp",
+    "bytes": 11578,
+    "alpha": true,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/ui-preview/street-emblems/masters/team-logo-grizzlies.png",
+    "kind": "in-game city team emblem"
+  },
+  {
+    "file": "team-mpls.webp",
+    "width": 160,
+    "height": 120,
+    "format": "webp",
+    "bytes": 13752,
+    "alpha": true,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/ui-preview/street-emblems/masters/team-logo-timberwolves.png",
+    "kind": "in-game city team emblem"
+  },
+  {
+    "file": "team-sa.webp",
+    "width": 160,
+    "height": 120,
+    "format": "webp",
+    "bytes": 11412,
+    "alpha": true,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/ui-preview/street-emblems/masters/team-logo-spurs.png",
+    "kind": "in-game city team emblem"
+  },
+  {
+    "file": "team-sf.webp",
+    "width": 160,
+    "height": 141,
+    "format": "webp",
+    "bytes": 14866,
+    "alpha": true,
+    "source": "/Users/draymond/Documents/ChatGPT/basketball/ui-preview/street-emblems/masters/team-logo-warriors.png",
+    "kind": "in-game city team emblem"
+  }
+]
